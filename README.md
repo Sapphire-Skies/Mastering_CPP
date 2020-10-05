@@ -7,8 +7,7 @@
 
 ---
 # Codechef
-
-
+---
 | Description | Completed |
 | :---: | :---: | :---: |
 | Oct Long Challenge 2020 | ✔️ |
