@@ -1,6 +1,8 @@
 
 # Mastering_C++
 
+_Add a well detailed PR comment to contribute_
+
 # Codechef
 ---
 | Challenge Name | Status |
