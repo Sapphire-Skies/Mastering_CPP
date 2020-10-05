@@ -3,8 +3,9 @@
 
 # Codechef
 ---
-
-[x] Oct Long Challenge 2020  ✔️ 
+| Challenge Name | Status |
+| :---: | :---: |
+| `OCT20B` | ✔️ |
 
 
 *Aiming to add atleast one solution everyday*
