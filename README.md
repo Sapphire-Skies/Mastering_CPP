@@ -3,8 +3,8 @@
 
 _Add a well detailed PR comment to contribute_
 
-# Codechef
----
+### Codechef
+
 | Challenge Name | Status |
 | :---: | :---: |
 | `OCT20B` | ✔️ |
