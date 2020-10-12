@@ -1,1 +1,1 @@
-This folder consists of questions from OCTOBER LONG CHALLENGE 2020 from Codechef.
+This folder consists of questions from oct from Codechef.
